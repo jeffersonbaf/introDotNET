@@ -1,0 +1,16 @@
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\bin\Debug\net5.0\EstruturasCondicionais.exe
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\bin\Debug\net5.0\EstruturasCondicionais.deps.json
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\bin\Debug\net5.0\EstruturasCondicionais.runtimeconfig.json
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\bin\Debug\net5.0\EstruturasCondicionais.runtimeconfig.dev.json
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\bin\Debug\net5.0\EstruturasCondicionais.dll
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\bin\Debug\net5.0\ref\EstruturasCondicionais.dll
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\bin\Debug\net5.0\EstruturasCondicionais.pdb
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.csproj.AssemblyReference.cache
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.dll
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\ref\EstruturasCondicionais.dll
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.pdb
+C:\DOTNET\csharp\segundoAplicativo\EstruturasCondicionais\obj\Debug\net5.0\EstruturasCondicionais.genruntimeconfig.cache
