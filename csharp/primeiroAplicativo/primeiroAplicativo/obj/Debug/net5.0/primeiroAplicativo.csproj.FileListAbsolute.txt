@@ -1,0 +1,16 @@
+C:\csharp\primeiroAplicativo\primeiroAplicativo\bin\Debug\net5.0\primeiroAplicativo.exe
+C:\csharp\primeiroAplicativo\primeiroAplicativo\bin\Debug\net5.0\primeiroAplicativo.deps.json
+C:\csharp\primeiroAplicativo\primeiroAplicativo\bin\Debug\net5.0\primeiroAplicativo.runtimeconfig.json
+C:\csharp\primeiroAplicativo\primeiroAplicativo\bin\Debug\net5.0\primeiroAplicativo.runtimeconfig.dev.json
+C:\csharp\primeiroAplicativo\primeiroAplicativo\bin\Debug\net5.0\primeiroAplicativo.dll
+C:\csharp\primeiroAplicativo\primeiroAplicativo\bin\Debug\net5.0\ref\primeiroAplicativo.dll
+C:\csharp\primeiroAplicativo\primeiroAplicativo\bin\Debug\net5.0\primeiroAplicativo.pdb
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.csproj.AssemblyReference.cache
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.AssemblyInfoInputs.cache
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.AssemblyInfo.cs
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.csproj.CoreCompileInputs.cache
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.dll
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\ref\primeiroAplicativo.dll
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.pdb
+C:\csharp\primeiroAplicativo\primeiroAplicativo\obj\Debug\net5.0\primeiroAplicativo.genruntimeconfig.cache
